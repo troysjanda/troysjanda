@@ -4,4 +4,14 @@
 - 💞️ I’m looking to collaborate on Ublock Orgin Filterlists
 - 📫 How to reach me PM me.
 
-I am a Ubo Filterliet maintainer for the XPI and the Yahoo Complete Filterlists. The XPI list is a general filterlist for annoyances around the web that i have encountered. The Yahoo Complete is a filterlist that removes all/most of the annoyances on the Yahoo site, which includes ads, beacons, bannars, and clickbate articles that seem like real articles but are ads. Please submit a bug report for filters that you feel should be included on either list. Make sure that the filter does not already exsist. 
+XPI's Filter List
+
+https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
+
+A collection of personal filters from my daily web activity. These are uncatagorized and may cause breakage. If you find problems, or want to contribute please submit a pull request and ill review and merge.
+
+Yahoo Complete annoyance blocking list
+
+https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/yahoocomplete.txt
+
+These filters help to reduce Yahoo tracking, Beacons, Pixel tracking, and ads making Yahoo a more cleaner experience. Note: Some filters can cause blank gaps in articles or sidebar this is unavoidable due in part to the way Yahoo obscures its div, classes in an effort to circumvent blockers.
