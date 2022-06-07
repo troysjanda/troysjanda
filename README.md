@@ -1,3 +1,10 @@
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=troysjanda&show_icons=true&theme=graywhite&hide_title=true&hide_border=true&include_all_commits=true&count_private=true&icon_color=ffcc00&locale=en" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=troysjanda&theme=graywhite&hide_title=true&hide_border=true" />
+</a><br>
+
 - 👋 Hi, I’m @troysjanda
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python
