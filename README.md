@@ -34,10 +34,6 @@
 
 ### Ubo Filter Lists I maintain
 <br>
-![GitHub](https://img.shields.io/github/license/troysjanda/MyBlockLists?style=plastic)
-[![PyPI - Status](https://img.shields.io/pypi/status/Django.svg?style=plastic)](https://github.com/troysjanda/MyBlockLists)
-![GitHub last commit](https://img.shields.io/github/last-commit/troysjanda/MyBlockLists?style=plastic)
-<br>
 XPI's Filter List
 
 https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/UBOXPI
