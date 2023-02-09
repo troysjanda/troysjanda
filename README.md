@@ -45,10 +45,3 @@ Yahoo Complete annoyance blocking list
 https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/yahoocomplete.txt
 
 These filters help to reduce Yahoo tracking, Beacons, Pixel tracking, and ads making Yahoo a more cleaner experience. Note: Some filters can cause blank gaps in articles or sidebar this is unavoidable due in part to the way Yahoo obscures its div, classes in an effort to circumvent blockers.
-
-XPI Social Plus List [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC_BY--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
-
-https://raw.githubusercontent.com/troysjanda/MyBlockLists/master/socialplus.txt
-
-This filter list is a network based Social blocking list that works alongside other social based list instead of the traditional cosmedic based lists. Author was originally Yuki2718
-
